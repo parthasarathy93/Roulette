@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  balance: 1.5
+  currentcasino: 1
+  crdate: 2020-04-21 23:08:08
+  moddate: 2020-04-21 23:08:08
+
+two:
+  name: MyString
+  balance: 1.5
+  currentcasino: 1
+  crdate: 2020-04-21 23:08:08
+  moddate: 2020-04-21 23:08:08

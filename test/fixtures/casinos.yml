@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  balance: 1.5
+  crdate: 2020-04-21 23:01:35
+
+two:
+  name: MyString
+  balance: 1.5
+  crdate: 2020-04-21 23:01:35

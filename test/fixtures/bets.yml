@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userid: 1
+  gameid: 1
+  betnumber: 1
+  bettime: 2020-04-21 23:12:21
+  betstatus: MyString
+
+two:
+  userid: 1
+  gameid: 1
+  betnumber: 1
+  bettime: 2020-04-21 23:12:21
+  betstatus: MyString

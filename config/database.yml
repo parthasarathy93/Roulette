@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: roulette
+  pool: 5
+  username: parthasarathy
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: roulette_test
+  pool: 5
+  username: parthasarathy
